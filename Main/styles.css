@@ -87,14 +87,12 @@ body {
 
 .search-icon {
   font-size: 1.2rem;
-  color: #333;
   margin-right: 15px;
   cursor: pointer;
 }
 
 .language-switch {
   font-size: 1rem;
-  color: #333;
   cursor: pointer;
   display: flex;
   align-items: center;
