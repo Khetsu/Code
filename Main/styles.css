@@ -8,7 +8,7 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f9f9f9;
-  color: #333;
+
 }
 
 /*ჰედერი*/
@@ -37,7 +37,6 @@ body {
   width: 72px;
   font-size: 1.8rem;
   font-weight: bold;
-  color: #333;
   margin-left: 130px;
 }
 
@@ -46,7 +45,6 @@ body {
   margin: 0 15px;
   text-decoration: none;
   font-size: 1rem;
-  color: #333;
   display: inline-flex;
   align-items: center;
   position: relative;
